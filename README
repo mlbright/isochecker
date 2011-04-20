@@ -1,2 +1,2 @@
 This is a basic .iso checker.
-It reads the CD-ROM mounted on Fedora 14 by default (/dev/cdrom)
+It reads the CD-ROM mounted by default on Fedora 14 (/dev/cdrom).
